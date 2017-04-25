@@ -1,0 +1,4 @@
+﻿  BufferCircular.cpp
+c:\source\sourcesseparados\cpp\buffercircular\buffercircular\buffercircular.cpp(14): warning C4101: 'cursor': unreferenced local variable
+  BufferCircular.vcxproj -> C:\Source\SourcesSeparados\Cpp\BufferCircular\Debug\BufferCircular.exe
+  BufferCircular.vcxproj -> C:\Source\SourcesSeparados\Cpp\BufferCircular\Debug\BufferCircular.pdb (Partial PDB)
